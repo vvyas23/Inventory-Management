@@ -24,6 +24,7 @@ class InventoryServiceImplTest {
 
     @Test
     void getItemById() {
+        assertNotEquals(2, 1);
     }
 
     @Test
