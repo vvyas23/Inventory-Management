@@ -11,7 +11,7 @@ class InventoryServiceImplTest {
     @BeforeEach
     void setUp() {
         System.out.println("Shweta Vaibhav Bhor");
-        System.out.println("Pune City Ganesh Peth");
+        System.out.println("Pune City Ganesh Peth Cork");
     }
 
     @AfterEach
