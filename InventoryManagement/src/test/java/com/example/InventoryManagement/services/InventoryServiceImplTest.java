@@ -14,6 +14,7 @@ class InventoryServiceImplTest {
         System.out.println("Pune City Ganesh Peth Cork");
         System.out.println("Commit 1");
         System.out.println("Commit 2");
+        System.out.println("Commit 3");
     }
 
     @AfterEach
