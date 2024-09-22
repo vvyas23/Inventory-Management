@@ -10,6 +10,7 @@ class InventoryServiceImplTest {
 
     @BeforeEach
     void setUp() {
+        System.out.println("Shweta");
     }
 
     @AfterEach
