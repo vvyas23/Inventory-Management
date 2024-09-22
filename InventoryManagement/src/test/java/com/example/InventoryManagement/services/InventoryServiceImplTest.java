@@ -10,7 +10,8 @@ class InventoryServiceImplTest {
 
     @BeforeEach
     void setUp() {
-        System.out.println("ShwetaBhor");
+        System.out.println("Shweta Vaibhav Bhor");
+        System.out.println("Pune City");
     }
 
     @AfterEach
@@ -24,6 +25,7 @@ class InventoryServiceImplTest {
 
     @Test
     void getItemById() {
+        assertNotEquals(2, 1);
     }
 
     @Test
